@@ -2,4 +2,5 @@ Hi, I'm Valentina !!!!! <img src="https://github.com/ABSphreak/ABSphreak/blob/ma
 
 <i>Contact:</i><br>
 
-<a href="https://www.linkedin.com/in/carolinaespinoza315/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentinaespinoza315@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinaespinoza315/)
