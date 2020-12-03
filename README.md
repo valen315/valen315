@@ -4,4 +4,4 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentinaespinoza315@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinaespinoza315/)
-[![valentinaespinoza.com](https://img.shields.io/badge/-VALENTINAESPINOZA.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.valentinaespinoz.com/)
+
