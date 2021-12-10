@@ -1,5 +1,4 @@
-
-### Hello friend 👩🏻‍💻
+👋  Hi there! I'm **Frontend Developer**, valen315
 
 :mailbox: You can reach me with the links below <br>
 
